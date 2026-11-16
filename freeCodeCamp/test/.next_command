@@ -67,3 +67,11 @@ ls --color=auto
 cd ..
 __vsc_prompt_cmd_original
 ls --color=auto
+cp footer.jpg images
+cp footer.jpeg images
+cp header.png
+cp header.png images
+cp CodeRoad.svg images
+cp freeCodeCamp.svg images
+cp CodeAlly.svg images
+cd images
