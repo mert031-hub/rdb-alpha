@@ -174,3 +174,4 @@ find -name CodeAlly.svg
 find -name CodeAlly.svg
 find
 ls --color=auto
+touch CodeAlly.svg
