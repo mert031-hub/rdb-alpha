@@ -122,3 +122,4 @@ cd assets
 mkdir images
 cd images
 pwd
+touch background.jpg
