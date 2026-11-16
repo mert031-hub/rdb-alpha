@@ -49,3 +49,5 @@ touch roboto.font
 touch lato.font
 ls --color=auto
 __vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+menlo.font
