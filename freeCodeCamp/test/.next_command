@@ -203,3 +203,13 @@ find
 touch client/assets/fonts/lato-light.ttf
 find
 ls --color=auto
+cd fonts
+ls --color=auto
+rm lato.ttf
+rm menlo.otf
+rm roboto.woff
+cd ..
+rm fonts
+ls --color=auto
+rmdir fonts
+mkdir fonts
