@@ -170,3 +170,4 @@ mkdir client /assets/icons
 mkdir client/assets/icons
 find -name CodeAlly.svg
 mv CodeAlly.svg icons
+find -name CodeAlly.svg
