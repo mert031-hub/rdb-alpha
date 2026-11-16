@@ -225,3 +225,4 @@ touch README.md
 ls --color=auto
 __vsc_prompt_cmd_original
 echo Yay!
+ehco I finished the boilerplate!
