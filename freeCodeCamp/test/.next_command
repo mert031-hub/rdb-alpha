@@ -141,3 +141,26 @@ find -name header.png
 find -name footer.jpeg
 cd images
 ls --color=auto
+mv footer.jpeg ..
+cd ..
+ls --color=auto
+mv footer.jpeg client/assets/images
+find -name footer.jpeg
+find
+rmdir images
+ls --color=auto
+cd images
+ls --color=auto
+rmdir images
+cd ..
+rmdir images
+cd images
+rm background.jpg
+rm CodeAlly.svg
+ls --color=auto
+rm CodeRoad.svg
+rm freeCodeCamp.svg
+cd ..
+rmdir images
+ls --color=auto
+find
