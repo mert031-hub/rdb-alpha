@@ -79,3 +79,4 @@ ls --color=auto
 cd ..
 rm background.jpg
 ls --color=auto
+cd images
