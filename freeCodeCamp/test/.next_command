@@ -100,3 +100,5 @@ find
 ls --color=auto
 mv lato.ttf fonts
 mv menlo fonts
+mv menlo.otf fonts
+find
