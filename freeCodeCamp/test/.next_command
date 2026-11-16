@@ -167,3 +167,4 @@ find
 ls --color=auto
 mkdir assets/icons
 mkdir client /assets/icons
+mkdir client/assets/icons
