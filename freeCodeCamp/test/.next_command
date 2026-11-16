@@ -202,3 +202,4 @@ touch client/assets/fonts/roboto-light.woff
 find
 touch client/assets/fonts/lato-light.ttf
 find
+ls --color=auto
