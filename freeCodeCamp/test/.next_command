@@ -123,3 +123,10 @@ mkdir images
 cd images
 pwd
 touch background.jpg
+cd ../..
+cd ..
+ls --color=auto
+cd images
+ls --color=auto
+mv background.jpg client/assets/images
+mv background.jpg website/ client/assets/images
