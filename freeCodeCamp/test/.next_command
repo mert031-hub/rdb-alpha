@@ -47,3 +47,5 @@ cd website
 ls --color=auto
 touch roboto.font
 touch lato.font
+ls --color=auto
+__vsc_prompt_cmd_original
