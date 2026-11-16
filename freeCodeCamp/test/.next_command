@@ -438,3 +438,5 @@ git push origin main
 git push origin master
 git remote set-url origin [https://github.com/mert031-hub/rdb-alpha.git]
 git push -u origin master
+git status
+git add .
