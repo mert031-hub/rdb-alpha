@@ -195,3 +195,4 @@ find client/assets/fonts
 cd ../../..
 find client/assets/fonts
 touch client/assets/fonts lato-bold-ttf
+ls --color=auto
