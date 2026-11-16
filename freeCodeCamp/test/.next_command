@@ -427,3 +427,9 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 git remote remove origin
 git add .
+git commit -m "completed"
+git push
+__vsc_prompt_cmd_original
+git push https://github.com/freeCodeCamp/rdb-alpha.git master
+git remote add origin [https://github.com/mert031-hub/rdb-alpha.git]
+git add .
