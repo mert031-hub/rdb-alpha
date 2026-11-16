@@ -75,3 +75,7 @@ cp CodeRoad.svg images
 cp freeCodeCamp.svg images
 cp CodeAlly.svg images
 cd images
+ls --color=auto
+cd ..
+rm background.jpg
+ls --color=auto
