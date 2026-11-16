@@ -43,3 +43,7 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 __vsc_prompt_cmd_original
 ls --color=auto
+cd website
+ls --color=auto
+touch roboto.font
+touch lato.font
