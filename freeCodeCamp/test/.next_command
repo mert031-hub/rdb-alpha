@@ -240,3 +240,4 @@ mv website website-boilerplate
 ls --color=auto
 cp --help
 mkdir toms-website
+cp -r website-boilerplate toms-website
