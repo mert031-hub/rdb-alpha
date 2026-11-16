@@ -172,3 +172,4 @@ find -name CodeAlly.svg
 mv CodeAlly.svg icons
 find -name CodeAlly.svg
 find -name CodeAlly.svg
+find
