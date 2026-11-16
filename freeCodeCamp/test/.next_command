@@ -219,3 +219,4 @@ touch deneme.ttg
 cd ..
 rm -r fonts
 ls --color=auto
+touch package.json
