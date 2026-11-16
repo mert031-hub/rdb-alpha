@@ -131,3 +131,4 @@ ls --color=auto
 mv background.jpg client/assets/images
 mv background.jpg website/ client/assets/images
 mv header.png ..
+ls --color=auto
