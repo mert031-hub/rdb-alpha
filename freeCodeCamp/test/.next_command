@@ -244,3 +244,4 @@ cp -r website-boilerplate toms-website
 ls --color=auto
 find
 clear
+__vsc_prompt_cmd_original
