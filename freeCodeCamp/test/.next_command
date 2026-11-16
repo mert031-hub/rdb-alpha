@@ -118,3 +118,4 @@ find -name website
 find
 cd client
 mkdir assets
+cd assets
