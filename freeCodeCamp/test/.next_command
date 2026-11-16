@@ -164,3 +164,4 @@ cd ..
 rmdir images
 ls --color=auto
 find
+ls --color=auto
