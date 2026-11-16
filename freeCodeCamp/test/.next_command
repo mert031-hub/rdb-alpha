@@ -175,3 +175,23 @@ find -name CodeAlly.svg
 find
 ls --color=auto
 touch CodeAlly.svg
+s
+ls --color=auto
+mv CodeAlly.svg client/assets/icons
+find -name CodeAlly.svg
+mv CodeRoad.svg client/assets/icons
+mv freeCodeCamp.svg client/assets/icons
+find -name CodeRoad.svg
+find -name freeCodeCamp.svg
+find
+mkdir assets/icons/fonts
+mkdir assets/assets/fonts
+mkdir client/assets/fonts
+cd client/assets/fonts
+touch roboto-bold.woff
+touch roboto-light.woff
+ls --color=auto
+find client/assets/fonts
+cd ../../..
+find client/assets/fonts
+touch client/assets/fonts lato-bold-ttf
