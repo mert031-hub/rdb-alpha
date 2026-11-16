@@ -196,3 +196,9 @@ cd ../../..
 find client/assets/fonts
 touch client/assets/fonts lato-bold-ttf
 ls --color=auto
+rm lato-bold-ttf
+ls --color=auto
+touch client/assets/fonts/roboto-light.woff
+find
+touch client/assets/fonts/lato-light.ttf
+find
