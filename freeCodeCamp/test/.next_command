@@ -135,3 +135,4 @@ ls --color=auto
 cd ..
 ls --color=auto
 find -name header.png
+find -name images
