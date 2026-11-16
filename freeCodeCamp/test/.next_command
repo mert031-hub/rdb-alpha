@@ -213,3 +213,9 @@ rm fonts
 ls --color=auto
 rmdir fonts
 mkdir fonts
+cd fonts
+touch lato.ttf
+touch deneme.ttg
+cd ..
+rm -r fonts
+ls --color=auto
